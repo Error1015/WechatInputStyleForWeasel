@@ -44,17 +44,17 @@ patch:
     paging_on_scroll: true # 在候选窗口上滑动滚轮的行为：true（翻页）；false （选中下一个候选）
     click_to_capture: false # 鼠标点击候选项，创建截图：true；false
 
-  layout:
-    align_type: bottom,
-    border: 2,
-    spacing: 5,
-    candidate_spacing: 22,
-    hilite_spacing: 4,
-    hilite_padding: 4,
-    margin_x: 8,
-    margin_y: 8,
-    round_corner: 5,
-    corner_radius: 10,
-    shadow_radius: 3,
-    shadow_offset_x: 3,
-    shadow_offset_y: 3,
+    layout:
+      align_type: bottom,
+      border: 2,
+      spacing: 5,
+      candidate_spacing: 22,
+      hilite_spacing: 4,
+      hilite_padding: 4,
+      margin_x: 8,
+      margin_y: 8,
+      round_corner: 5,
+      corner_radius: 10,
+      shadow_radius: 3,
+      shadow_offset_x: 3,
+      shadow_offset_y: 3,
