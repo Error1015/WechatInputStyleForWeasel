@@ -1,0 +1,2 @@
+# WechatInputStyleForWeasel
+小狼毫仿微信输入法样式
